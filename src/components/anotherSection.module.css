@@ -1,0 +1,7 @@
+.service_section {
+    background-color: rgb(214, 133, 26);
+    padding: 48px 0;
+    display: grid;
+    gap: 64px;
+}
+

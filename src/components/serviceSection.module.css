@@ -1,0 +1,6 @@
+.service_section {
+    background-color: antiquewhite;
+    padding: 48px 0;
+    display: grid;
+    gap: 64px;
+}
